@@ -1,4 +1,3 @@
-# Fast_Sampling
 # Fast Multinomial Sampling with Gumbel-Max
 
 **TL;DR**: We present a significant performance optimization for PyTorch's multinomial sampling using the Gumbel-Max trick, achieving up to 2.8x speedup on A100 GPUs.
